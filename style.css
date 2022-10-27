@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background: #f8f8f8
+}
+
+
+em strong {
+    color: darkslateblue;
+}
+#banner {
+    width: 50%;
+}
+h1{
+text-align: center;
+height: 80%;
+border: 10px solid #000000;
+pading-top: 20px
+margin-left: 15px;
+; ;
+}
+ .itens {
+     font-size: 25;
+  
